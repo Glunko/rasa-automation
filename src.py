@@ -605,6 +605,7 @@ def downloadfile():
     flag = True
     while flag:
         id = input("请输入你需要输出的任务id：\n")
+        # 这里判断任务id为3位数到4位数，不需要可以删掉
         if id.isdigit() and 3 <= len(id) <= 4:
             flag = False
         else:

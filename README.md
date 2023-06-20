@@ -13,5 +13,6 @@ pip install -r requirements.txt
 
 ![image](https://github.com/Glunko/rasa-automation/blob/main/running.png)  
   
-获取当前任务列表
+获取当前任务列表  
+
 ![image](https://github.com/Glunko/rasa-automation/blob/main/running_getlist.png)

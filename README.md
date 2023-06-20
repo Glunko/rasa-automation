@@ -7,7 +7,8 @@
 pip install -r requirements.txt
 ``` 
 
-更多任务添加格式详情见example.txt
+更多任务添加格式详情见example.txt  
+
 运行中...  
 
 ![image](https://github.com/Glunko/rasa-automation/blob/main/running.png)  
